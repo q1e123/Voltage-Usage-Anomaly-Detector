@@ -1,0 +1,6 @@
+struct List{
+
+};
+struct Node {
+
+};
