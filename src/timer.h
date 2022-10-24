@@ -1,0 +1,3 @@
+void wait(int duration){
+
+}
