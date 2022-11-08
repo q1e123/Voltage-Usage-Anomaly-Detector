@@ -9,4 +9,4 @@ Please read the [following guideline](guideline.md) if you wish to contribute to
 TBD
 
 ## Team
-TBD
+* Robert-Nicolae Șolcă - Manager
