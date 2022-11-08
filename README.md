@@ -10,3 +10,15 @@ TBD
 
 ## Team
 * Robert-Nicolae Șolcă - Manager
+## AI
+* Radu Tanase 
+* Andrei-Dumitru Tohaneanu
+
+## Firmware 
+* Mihai-George Giurgi
+* Ana-Maria Ciutea
+* Bogdan Valentin Nutica
+* Stefan Tabacaru
+
+## Utils
+* Bogdan-Valentin Floricescu
