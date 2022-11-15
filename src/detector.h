@@ -21,6 +21,8 @@ bool predict(Model model, Point point){
 Model train(Point train_data[], size_t train_data_size){
     Point * p_end_of_struct = &(train_data[train_data_size-1]);
     Model model;
+    model.max = 0;
+    model.min = 10000;
     for(Point * ptr = train_data; ptr != p_end_of_struct; ptr+=1){
         if(ptr -> voltage <= model.min){
             model.min = ptr -> voltage;
