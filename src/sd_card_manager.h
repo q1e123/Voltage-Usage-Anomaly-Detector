@@ -4,7 +4,7 @@
 #include <string>
 
 char* read(char* file_path){
-    
+
     init();
     File myFile = SD.open(file_path);
     std::string text;
@@ -20,8 +20,10 @@ char* read(char* file_path){
     }
     else 
     {
-        Serial.prin("error opening file")''
+        Serial.prin("error opening file");
     }
+
+    return null;
 }
 
 void write(char* file_path, char* message){
